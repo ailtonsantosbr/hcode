@@ -1,0 +1,16 @@
+{
+    "name": "ailtonsantosbr/composer",
+    "description": "Curso de PHP 7 hcode",
+    "type": "project",
+    "license": "gnu",
+    "authors": [
+        {
+            "name": "ailtonsantosbr",
+            "email": "ailton.santosbr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
